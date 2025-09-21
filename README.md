@@ -8,6 +8,10 @@ A minimal static website with automated deployment using GitHub Actions and GitH
 - **Automated Deployment** - CI/CD pipeline with GitHub Actions
 - **GitHub Pages Hosting** - Free hosting with custom domain support
 
+## 📚 Project Source
+
+This project is based on the [GitHub Actions Deployment Workflow](https://roadmap.sh/projects/github-actions-deployment-workflow) project from [roadmap.sh](https://roadmap.sh) - a great resource for learning DevOps and development best practices.
+
 ## 🛠️ How it works
 
 1. **Push to main** → GitHub Actions automatically deploys to GitHub Pages
@@ -16,7 +20,7 @@ A minimal static website with automated deployment using GitHub Actions and GitH
 
 ## 🌐 Live Demo
 
-Project page URL: [https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/](https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/)
+Check out the live site: [https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/](https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/)
 
 ## 🚀 Quick Start
 
