@@ -16,7 +16,7 @@ A minimal static website with automated deployment using GitHub Actions and GitH
 
 ## 🌐 Live Demo
 
-Check out the live site: [https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/](https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/)
+Project page URL: [https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/](https://rushikeshghodke.github.io/github-page-cicd-deployment.github.io/)
 
 ## 🚀 Quick Start
 
